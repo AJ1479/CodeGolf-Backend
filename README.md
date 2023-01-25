@@ -11,20 +11,12 @@
     <img src="https://csivit.com/images/favicon.png" alt="Logo" width="80">
   </a>
 
-  <h3 align="center">YOUR_TITLE</h3>
+  <h3 align="center">CodeGolf-Backend</h3>
 
   <p align="center">
-    YOUR_SHORT_DESCRIPTION
+    Backend repository for CSI-VITs CodeGolf platform.
     <br />
-    <a href="https://github.com/csivitu/repo"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/csivitu/repo">View Demo</a>
-    ·
-    <a href="https://github.com/csivitu/repo/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/csivitu/repo/issues">Request Feature</a>
-  </p>
+
 </p>
 
 
@@ -32,35 +24,27 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [About the Project](#about-the-project)
-  * [Built With](#built-with)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Usage](#usage)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contributors](#contributors-)
+- [Table of Contents](#table-of-contents)
+- [About The Project](#about-the-project)
+  - [Built With](#built-with)
+- [Getting Started](#getting-started)
+- [Roadmap](#roadmap)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contributors ✨](#contributors-)
 
 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo`, `twitter_handle`, `email`
+This repository contains the code for CSI-VIT's codebash platform - CodeGolf, written in Node.js, MongoDB and Javascript. 
 
 
 ### Built With
 
-* []()
-* []()
-* []()
-
+* [Node.js](https://nodejs.org/en/)
+* [MongoDB](https://www.mongodb.com/)
 
 
 <!-- GETTING STARTED -->
@@ -68,40 +52,27 @@ Here's a blank template to get started:
 
 To get a local copy up and running follow these simple steps.
 
-### Prerequisites
+1. Clone the repository
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-```sh
-npm install npm@latest -g
+```bash
+    git clone https://github.com/AJ1479/CodeGolf-Backend.git
 ```
 
-### Installation
- 
-1. Clone the repo
-```sh
-git clone https://github.com/github_username/repo.git
-```
 2. Install NPM packages
 ```sh
 npm install
 ```
 
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
+3. Start the server
+```sh
+npm start
+```
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/github_username/repo/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/AJ1479/CodeGolf-Backend/issues) for a list of proposed features (and known issues).
 
 
 
